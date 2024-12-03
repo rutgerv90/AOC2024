@@ -1,6 +1,6 @@
 # AOC 2024
 
-My solutions for the Advent of Code 2024 challenges, mostly done with Python using Jupyter Notebooks for readability
+My solutions for the Advent of Code 2024 challenges, mostly done with Python using Jupyter Notebooks for readability.
 
 https://adventofcode.com/2024
 
