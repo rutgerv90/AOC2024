@@ -10,7 +10,7 @@ https://adventofcode.com/2024
 | **[Day 02](./day02/day02.ipynb)** |     ✅       |     ✅       |
 | **[Day 03](./day03/day03.ipynb)** |     ✅       |      ✅      |
 | **[Day 04](./day04/day04.ipynb)** |     ✅       |     ✅       |
-| **Day 05** |            |            |
+| **[Day 05](./day05/day05.ipynb)** |     ✅       |     ✅       |
 | **Day 06** |            |            |
 | **Day 07** |            |            |
 | **Day 08** |            |            |
