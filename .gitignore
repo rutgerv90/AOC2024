@@ -1,0 +1,9 @@
+# creator of AOC requests nobody share input files or parts of instructions text
+# so we remove(d) those
+**/input.txt
+**/sample.txt
+**/sample2.txt
+**/*.txt
+
+# some exercises create generated images
+**/imgs
