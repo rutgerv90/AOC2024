@@ -24,8 +24,8 @@ https://adventofcode.com/2024
 | **[Day 16](./day16/day16.ipynb)** |     ✅       |     ❌       |
 | **[Day 17](./day17/day17.ipynb)** |     ✅       |     ❌       |
 | **[Day 18](./day18/day18.ipynb)** |     ✅       |     ✅       |
-| **Day 19** |            |            |
-| **Day 20** |            |            |
+| **[Day 19](./day19/day19.ipynb)** |     ✅       |     ❓       |
+| **[Day 20](./day20/day20.ipynb)** |     ✅       |     ❓       |
 | **Day 21** |            |            |
 | **Day 22** |            |            |
 | **Day 23** |            |            |
