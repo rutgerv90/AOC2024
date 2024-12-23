@@ -24,10 +24,10 @@ https://adventofcode.com/2024
 | **[Day 16](./day16/day16.ipynb)** |     ✅       |     ❌       |
 | **[Day 17](./day17/day17.ipynb)** |     ✅       |     ❌       |
 | **[Day 18](./day18/day18.ipynb)** |     ✅       |     ✅       |
-| **[Day 19](./day19/day19.ipynb)** |     ✅       |     ❓       |
-| **[Day 20](./day20/day20.ipynb)** |     ✅       |     ❓       |
-| **Day 21** |            |            |
-| **Day 22** |            |            |
-| **Day 23** |            |            |
+| **[Day 19](./day19/day19.ipynb)** |     ✅       |     ❌       |
+| **[Day 20](./day20/day20.ipynb)** |     ✅       |     ❌       |
+| **[Day 21](./day21/day21.ipynb)** |     ❌       |     ❌       |
+| **[Day 22](./day22/day22.ipynb)** |     ✅       |     ✅       |
+| **[Day 23](./day23/day23.ipynb)** |     ✅       |     ✅       |
 | **Day 24** |            |            |
 | **Day 25** |            |            |
