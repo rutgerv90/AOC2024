@@ -29,5 +29,5 @@ https://adventofcode.com/2024
 | **[Day 21](./day21/day21.ipynb)** |     ❌       |     ❌       |
 | **[Day 22](./day22/day22.ipynb)** |     ✅       |     ✅       |
 | **[Day 23](./day23/day23.ipynb)** |     ✅       |     ✅       |
-| **Day 24** |            |            |
-| **Day 25** |            |            |
+| **[Day 24](./day24/day24.ipynb)** |     ✅       |     ❌       |
+| **[Day 25](./day25/day25.ipynb)** |     ✅       |     ❌       |
